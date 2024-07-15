@@ -1,3 +1,6 @@
+Link to the video of reference:
+    https://www.youtube.com/watch?v=ezjnySXqdTo
+
 What is video classification?
 
     It is the task of predicting a label which is relevant to that video.
@@ -29,3 +32,15 @@ How do we perform video classification?
     1. We first extract frames from the given video
     2. Then we use feature extractors (line CNNs) to extract features from all the frames
     3. Then classify every frame based on these extracted features
+
+What is human activity recognition?
+    It is the task of classifying or predicting the activity or the action performed by someone.
+
+
+So what is the difference between normal classification task?
+    So in normal classification task, we just take the frame, extract features and according to it we classify the frame. But in case of human activity recognition, we cannot know what the person is doing by just looking at a frame, we need to watch the whole sequence to know what activity is being performed.
+
+In short, how do we do it:
+    We take each frame and our model will not only learn from the task performed by the object but also with the help of environmental constraints. Eg., in case of dancing and yoga, yoga will have mat whereas dancing wont have a mat, etc.
+
+    For human activity recognition, we will give our model a sequence of frames, and according to each frame our model will predict what the object in the frame is performing, and according to it, it will give out some perdiction. Now in some frames the model might perdict dancing while in some other frame it may say its performing yoga, so to solve that, we will be taking the average of a certain number of frames to make our final prediction.
