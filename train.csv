@@ -1,0 +1,80 @@
+,video_name,tag
+0,dataset/train/bicepscurl/barbell biceps curl_1.mp4,bicepscurl
+1,dataset/train/bicepscurl/barbell biceps curl_10.mp4,bicepscurl
+2,dataset/train/bicepscurl/barbell biceps curl_11.mp4,bicepscurl
+3,dataset/train/bicepscurl/barbell biceps curl_12.mp4,bicepscurl
+4,dataset/train/bicepscurl/barbell biceps curl_13.mp4,bicepscurl
+5,dataset/train/bicepscurl/barbell biceps curl_14.mp4,bicepscurl
+6,dataset/train/bicepscurl/barbell biceps curl_15.mp4,bicepscurl
+7,dataset/train/bicepscurl/barbell biceps curl_16.mp4,bicepscurl
+8,dataset/train/bicepscurl/barbell biceps curl_17.mp4,bicepscurl
+9,dataset/train/bicepscurl/barbell biceps curl_18.mp4,bicepscurl
+10,dataset/train/bicepscurl/barbell biceps curl_19.mp4,bicepscurl
+11,dataset/train/bicepscurl/barbell biceps curl_2.mp4,bicepscurl
+12,dataset/train/bicepscurl/barbell biceps curl_20.mp4,bicepscurl
+13,dataset/train/bicepscurl/barbell biceps curl_21.mp4,bicepscurl
+14,dataset/train/bicepscurl/barbell biceps curl_22.mp4,bicepscurl
+15,dataset/train/bicepscurl/barbell biceps curl_23.mp4,bicepscurl
+16,dataset/train/bicepscurl/barbell biceps curl_24.mp4,bicepscurl
+17,dataset/train/bicepscurl/barbell biceps curl_25.mp4,bicepscurl
+18,dataset/train/bicepscurl/barbell biceps curl_26.mp4,bicepscurl
+19,dataset/train/bicepscurl/barbell biceps curl_27.mp4,bicepscurl
+20,dataset/train/bicepscurl/barbell biceps curl_28.mp4,bicepscurl
+21,dataset/train/bicepscurl/barbell biceps curl_29.mp4,bicepscurl
+22,dataset/train/bicepscurl/barbell biceps curl_3.mp4,bicepscurl
+23,dataset/train/bicepscurl/barbell biceps curl_30.mp4,bicepscurl
+24,dataset/train/bicepscurl/barbell biceps curl_31.mp4,bicepscurl
+25,dataset/train/bicepscurl/barbell biceps curl_32.mp4,bicepscurl
+26,dataset/train/bicepscurl/barbell biceps curl_33.mp4,bicepscurl
+27,dataset/train/bicepscurl/barbell biceps curl_34.mp4,bicepscurl
+28,dataset/train/bicepscurl/barbell biceps curl_35.mp4,bicepscurl
+29,dataset/train/bicepscurl/barbell biceps curl_36.mp4,bicepscurl
+30,dataset/train/bicepscurl/barbell biceps curl_37.mp4,bicepscurl
+31,dataset/train/bicepscurl/barbell biceps curl_38.mp4,bicepscurl
+32,dataset/train/bicepscurl/barbell biceps curl_39.mp4,bicepscurl
+33,dataset/train/bicepscurl/barbell biceps curl_4.mp4,bicepscurl
+34,dataset/train/bicepscurl/barbell biceps curl_40.mp4,bicepscurl
+35,dataset/train/bicepscurl/barbell biceps curl_41.mp4,bicepscurl
+36,dataset/train/bicepscurl/barbell biceps curl_42.mp4,bicepscurl
+37,dataset/train/bicepscurl/barbell biceps curl_43.mp4,bicepscurl
+38,dataset/train/bicepscurl/barbell biceps curl_44.mp4,bicepscurl
+39,dataset/train/bicepscurl/barbell biceps curl_45.mp4,bicepscurl
+40,dataset/train/bicepscurl/barbell biceps curl_46.mp4,bicepscurl
+41,dataset/train/bicepscurl/barbell biceps curl_47.mp4,bicepscurl
+42,dataset/train/bicepscurl/barbell biceps curl_48.mp4,bicepscurl
+43,dataset/train/bicepscurl/barbell biceps curl_49.mp4,bicepscurl
+44,dataset/train/bicepscurl/barbell biceps curl_5.mp4,bicepscurl
+45,dataset/train/bicepscurl/barbell biceps curl_50.mp4,bicepscurl
+46,dataset/train/bicepscurl/barbell biceps curl_51.mp4,bicepscurl
+47,dataset/train/bicepscurl/barbell biceps curl_52.mp4,bicepscurl
+48,dataset/train/bicepscurl/barbell biceps curl_53.mp4,bicepscurl
+49,dataset/train/bicepscurl/barbell biceps curl_54.mp4,bicepscurl
+50,dataset/train/bicepscurl/barbell biceps curl_55.mp4,bicepscurl
+51,dataset/train/bicepscurl/barbell biceps curl_56.mp4,bicepscurl
+52,dataset/train/bicepscurl/barbell biceps curl_6.mp4,bicepscurl
+53,dataset/train/bicepscurl/barbell biceps curl_7.mp4,bicepscurl
+54,dataset/train/bicepscurl/barbell biceps curl_8.mp4,bicepscurl
+55,dataset/train/bicepscurl/barbell biceps curl_9.mp4,bicepscurl
+56,dataset/train/squat/squat_1.MOV,squat
+57,dataset/train/squat/squat_10.mp4,squat
+58,dataset/train/squat/squat_11.mp4,squat
+59,dataset/train/squat/squat_12.mp4,squat
+60,dataset/train/squat/squat_13.mp4,squat
+61,dataset/train/squat/squat_14.mp4,squat
+62,dataset/train/squat/squat_15.mp4,squat
+63,dataset/train/squat/squat_16.mp4,squat
+64,dataset/train/squat/squat_17.mp4,squat
+65,dataset/train/squat/squat_18.mp4,squat
+66,dataset/train/squat/squat_19.mp4,squat
+67,dataset/train/squat/squat_2.MOV,squat
+68,dataset/train/squat/squat_20.mp4,squat
+69,dataset/train/squat/squat_21.mp4,squat
+70,dataset/train/squat/squat_22.mp4,squat
+71,dataset/train/squat/squat_23.mp4,squat
+72,dataset/train/squat/squat_3.MOV,squat
+73,dataset/train/squat/squat_4.MOV,squat
+74,dataset/train/squat/squat_5.MOV,squat
+75,dataset/train/squat/squat_6.MOV,squat
+76,dataset/train/squat/squat_7.mp4,squat
+77,dataset/train/squat/squat_8.mp4,squat
+78,dataset/train/squat/squat_9.mp4,squat
