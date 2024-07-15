@@ -1,0 +1,31 @@
+What is video classification?
+
+    It is the task of predicting a label which is relevant to that video.
+
+Objective of this learning:
+
+    1. To classify video as dance, exercise, yoga
+
+Overview of this learning
+
+    1. Overview of video classification
+    2. Steps to build our own video classification model
+    3. video classification dataset
+    4. Training our video classification model
+    5. Evaluating our video classification model
+
+What is video?
+
+    It is a sequence of images/frame arranged in a specific order.
+
+How do we perform image classification?
+
+    1. We take images
+    2. User feature extractors (like CNN) to extract features from images.
+    3. Classify that image based on these extracted features.
+
+How do we perform video classification?
+
+    1. We first extract frames from the given video
+    2. Then we use feature extractors (line CNNs) to extract features from all the frames
+    3. Then classify every frame based on these extracted features
